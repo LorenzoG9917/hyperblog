@@ -1,5 +1,0 @@
-Esto es un archivo de prueba , vamos a ver que sucede con el tema de las versiones y con el tema
-de lo de rm y reset y lo de reset head
-
-git rm --cached: Elimina los archivos de nuestro 
-repositorio local y del área de staging, pero los mantiene en nuestro disco duro

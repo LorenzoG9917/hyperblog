@@ -12,6 +12,7 @@ lanzarme a la industria del tejido de lana sintetica con Machine learning
 * Las personalidades múltiples de Freddy
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows,Linux y Mac
+* Disponible para todas las edades
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el
 ejemplo. Si llegas acá NO LO TOMES EN SERIO  y mejor ve a [Curso Git y GitHub Profesional](https://platzi.com/cursos/git-github/ "Curso Git y GitHub Profesional").

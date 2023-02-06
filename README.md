@@ -4,7 +4,7 @@ Un blog increíble para el curso de[ Git Github](https://platzi.com/cursos/git-g
 lanzarme a la industria del tejido de lana sintetica con Machine learning
 > - niñita
 
-###En este curso vemos de todo:
+### En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo  en Github
 * El verdadero amor por las buenas prácticas
